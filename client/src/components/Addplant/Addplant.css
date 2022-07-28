@@ -1,0 +1,27 @@
+
+.card-title{
+    font-size: 30px;
+    font-weight: bold;
+    /* color: white; */
+    /* text-shadow: 0 0  10px black; */
+    /* font-family: 'gloria Hallelujah', cursive; */
+}
+.add_plant{
+    border-radius: 40px;
+}
+.gradient{
+    background-color: #eef8f8;
+/* background-image: linear-gradient(132deg, #52ca7c 0%, #4ee5a3 100%); */
+}
+.button_plant{
+    background-color: #127e3f;
+    border: none;
+    padding: 8px;
+    margin-bottom: 20px;
+    border-radius: 15px;
+}
+.label_plant{
+    font-size: 15px;
+    /* color: white; */
+    /* text-shadow: 0 0  10px black; */
+}
